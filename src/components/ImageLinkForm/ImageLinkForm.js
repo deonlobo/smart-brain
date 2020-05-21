@@ -4,7 +4,7 @@ function ImageLinkForm({ onInputChange,onButtonSubmit}){
     return(
         <div className='ma4 mt0'>
            <p className='f3'>
-               {'This magic brain will detect faces in your pictures.Give it a picture'}
+               {'This magic brain will detect faces in your pictures.Give it a picture (Image Location Url)'}
            </p>
            <div className='center'>
               <div className='form center pa4 br3 shadow-5'>
